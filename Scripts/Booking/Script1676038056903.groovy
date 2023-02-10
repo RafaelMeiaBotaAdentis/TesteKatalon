@@ -38,5 +38,12 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/butto
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/appointment.php#summary')
 
-WebUI.verifyElementPresent(findTestObject('Page_CURA Healthcare Service/h2_Appointment Confirmation'), 30)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation'), 
+    30)
+
+WebUI.takeScreenshotAsCheckpoint('test')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Apply for hospital readmission         _0336b7'))
+
+WebUI.closeBrowser()
 

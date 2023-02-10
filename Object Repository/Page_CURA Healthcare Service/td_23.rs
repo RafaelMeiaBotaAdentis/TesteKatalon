@@ -6,12 +6,11 @@
    <elementGuidId>869bedc8-019d-4584-8ef9-6de020f0a0d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[26]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[26]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>6b685d78-f3e2-43f7-a993-62aca99a3a21</webElementGuid>
+      <webElementGuid>06841743-7c81-466a-a52f-3952f9165730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>day</value>
-      <webElementGuid>b577e98a-2d57-4023-8f47-e5216d016504</webElementGuid>
+      <webElementGuid>0400eb73-0354-4cfd-83b3-abfe6d677a39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>23</value>
-      <webElementGuid>1b662232-fc17-4f5e-9a45-084202a017ce</webElementGuid>
+      <webElementGuid>df199388-86ea-45b4-9aeb-e52afc89068f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[4]/td[@class=&quot;day&quot;]</value>
-      <webElementGuid>81ffe47e-8e89-41ee-9302-ce5188d8060c</webElementGuid>
+      <webElementGuid>2fb1f1f6-e530-40e3-bf8b-2c18deb087d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[26]</value>
-      <webElementGuid>d53e5e0d-4700-449d-9d04-eac020e75939</webElementGuid>
+      <webElementGuid>a1579815-1f69-47d1-82e7-3dd45ad8511d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[26]</value>
-      <webElementGuid>ebe1f147-d61e-44f1-a820-7f02c29bd622</webElementGuid>
+      <webElementGuid>4d21c986-d156-4fb6-b959-b5ddafb51cd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[17]</value>
-      <webElementGuid>faa639ac-6f42-4b6c-a77c-abed6f085603</webElementGuid>
+      <webElementGuid>6aa19a23-c33a-4aaa-879c-fb78e9b44f78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[17]</value>
-      <webElementGuid>7f77b9fe-49d9-4200-9931-c0a640896efb</webElementGuid>
+      <webElementGuid>f664787a-1880-471f-8452-69b20e7fa18d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='23']/parent::*</value>
-      <webElementGuid>46a012a4-a21f-4cbe-b803-6e5ff0d5bcd8</webElementGuid>
+      <webElementGuid>9dbf51e9-da02-4ad0-89d2-235da97cb455</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td[5]</value>
-      <webElementGuid>a8493542-5c45-4cdb-a0cf-c8d80af3cca9</webElementGuid>
+      <webElementGuid>3a1e91d2-d3bb-4ad9-b5b9-7d1b1d0db760</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '23' or . = '23')]</value>
-      <webElementGuid>e74c3d93-c038-4aa3-b2a8-889def326603</webElementGuid>
+      <webElementGuid>3fe84568-3df3-448e-a86a-84aec5a0828a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
